@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseToggleTest", "ReleaseToggleTest\ReleaseToggleTest.csproj", "{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBD}") = "DatabricksDemo", "DatabricksDemo\DatabricksDemo.csproj", "{F2F887DB-6E80-79F0-897C-04D11DF6B4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEF66F5-F1D6-4455-9627-1333B56367B5}
+	EndGlobalSection
+EndGlobal
