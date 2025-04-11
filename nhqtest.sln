@@ -4,6 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseToggleTest", "ReleaseToggleTest\ReleaseToggleTest.csproj", "{F2F887DB-6E80-79F0-897C-04D11DF6B4BA}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBD}") = "DatabricksDemo", "DatabricksDemo\DatabricksDemo.csproj", "{F2F887DB-6E80-79F0-897C-04D11DF6B4BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBE}") = "DatabricksDemo", "CopyData\CopyData.csproj", "{F2F887DB-6E80-79F0-897C-04D11DF6B4BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
